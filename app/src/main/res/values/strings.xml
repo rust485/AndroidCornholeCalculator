@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Corn Hole Calculator</string>
+    <string name="score_place_holder">00</string>
+    <string name="bags_place_holder">0</string>
+    <string name="player_name_holder">player name</string>
+    <string name="plus_button">+</string>
+    <string name="minus_button">-</string>
+    <string name="round">Round 0</string>
+    <string name="on_board">On Board</string>
+    <string name="in_hole">In Hole</string>
+    <string name="calculate_scores">Calculate Scores</string>
+    <string name="error_box">ERROR</string>
+</resources>

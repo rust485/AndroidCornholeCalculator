@@ -1,0 +1,9 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="score_text">90sp</dimen>
+    <dimen name="header_text">30sp</dimen>
+    <dimen name="in_game_column_horizontal">175dp</dimen>
+    <dimen name="num_bags_text">25sp</dimen>
+</resources>
